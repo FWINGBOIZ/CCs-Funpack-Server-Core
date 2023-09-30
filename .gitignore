@@ -1,0 +1,11 @@
+*
+
+!config
+!defaultconfigs
+!kubejs
+!mods
+
+!.gitignore
+!README.md
+!startserver.bat
+!user_jvm_args.txt
