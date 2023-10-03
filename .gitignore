@@ -3,6 +3,7 @@
 !config
 !defaultconfigs
 !kubejs
+!mods
 !mods/*
 
 !.gitignore
